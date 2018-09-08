@@ -1,0 +1,2 @@
+[K.I.L.L.J.O.YVoice X2BodyPartTemplate]
+DisplayName="K.I.L.L.J.O.Y_V1.0"
